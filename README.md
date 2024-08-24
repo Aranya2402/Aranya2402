@@ -18,7 +18,5 @@ Skills:   / JS / HTML / CSS/ MongoDB/ Node.JS/React/Express.JS/My SQL
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Aranya2402&show_icons=true)  
 
-![GitHub metrics](https://metrics.lecoq.io/Aranya2402)  
-
 ![GitHub streak stats](https://streak-stats.demolab.com/?user=Aranya2402)  
 
