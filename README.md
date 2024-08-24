@@ -1,6 +1,6 @@
 ### Hi there 👋, my name is Aranya  Y.S
 #### I am an Information Technology Undergraduate of University Of Moratuwa
-![I am an Information Technology Undergraduate of University Of Moratuwa]([![Header](./your-header-image-name.png)](https://github.com/Aranya2402/Aranya2402/blob/main/github-header-image.png))
+![I am an Information Technology Undergraduate of University Of Moratuwa](https://github.com/Aranya2402/Aranya2402/blob/main/github-header-image.png)
 
 I am Aranya Yoganantha Sarma From Matale , Sri Lanka, A driven undergraduate with a strong academic foundation and hands-on experience in software development. Proficient in analytical thinking, problem-solving, and fostering teamwork through clear communication. Enthusiastic about software engineering, and always open to collaboration on innovative projects or engaging in tech discussions.
 
