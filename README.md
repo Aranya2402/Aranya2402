@@ -4,7 +4,7 @@
 
 I am Aranya Yoganantha Sarma From Matale , Sri Lanka, A driven undergraduate with a strong academic foundation and hands-on experience in software development. Proficient in analytical thinking, problem-solving, and fostering teamwork through clear communication. Enthusiastic about software engineering, and always open to collaboration on innovative projects or engaging in tech discussions.
 
-Skills:   / JS / HTML / CSS/ MongoDB/ Node.JS/React/Express.JS/My SQL
+Skills:   / JS / HTML5 / CSS/ MongoDB/ Node.JS/React/Express.JS/My SQL/C/Java/Material UI
 
 
 
