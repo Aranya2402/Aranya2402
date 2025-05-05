@@ -16,7 +16,6 @@ Skills:   / JS / HTML5 / CSS/ MongoDB/ Node.JS/React/Express.JS/My SQL/C/Java/Ma
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Aranya2402)](https://github.com/anuraghazra/github-readme-stats)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Aranya2402&show_icons=true)  
 
 ![GitHub streak stats](https://streak-stats.demolab.com/?user=Aranya2402)  
 
