@@ -1,11 +1,17 @@
 <!-- ===== README START ===== -->
 
-# 👋 Hi, I'm Aranya 
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=600&height=70&duration=3000&lines=Hi+There!+👋;+I'm+Aranya!" />
+</h1>
 
-### 💻 Information Technology Undergraduate | University of Moratuwa, Sri Lanka
+<h3 align="center">A passionate Information Technology undergraduate & software engineer.</h3>
 
 <p align="center">
-  <img src="https://github.com/Aranya2402/Aranya2402/blob/main/github-header-image.png" alt="Header Image" width="600" style="border-radius: 15px;"/>
+  <img src="https://komarev.com/ghpvc/?username=Aranya2402&label=Profile%20views&color=0e75b6&style=flat" alt="Aranya2402" />
+</p>
+
+<p align="center">
+  📫 <a href="mailto:aranya24arii@gmail.com">aranya24arii@gmail.com</a>
 </p>
 
 ---
