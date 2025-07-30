@@ -1,4 +1,3 @@
-<!-- ===== README START ===== -->
 
 <h1 align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=600&height=70&duration=3000&lines=Hi+There!+👋;+I'm+Aranya!" />
@@ -111,4 +110,3 @@ I enjoy collaborating on real-world projects and honing my skills in full-stack 
 
 ---
 
-<!-- ===== README END ===== -->
